@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sudipta Sarkar
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science, Machine Learning and AI Driven tools
 - 🌱 I’m currently learning Computer Vision and Deep Learning methods
 - 💞️ I’m looking to collaborate on projects based on machine learning and Data Analytics
 - 📫 How to reach me : LikedIn : https://www.linkedin.com/in/sudipta-sarkar-69692124a
