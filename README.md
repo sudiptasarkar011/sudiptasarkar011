@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects based on machine learning and Data Analytics
 - 📫 How to reach me : LikedIn : https://www.linkedin.com/in/sudipta-sarkar-69692124a
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Did you know? The "QWERTY" keyboard layout was designed to slow typists down.
+- ⚡ Fun fact: The "QWERTY" keyboard layout was designed to slow typists down.
   Early typewriters jammed when users typed too quickly, so the layout was created to reduce speed and avoid jams.
 
 <!---
