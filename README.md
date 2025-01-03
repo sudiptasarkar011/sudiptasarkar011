@@ -76,6 +76,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sudiptasarkar011/sudiptasarkar011/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sudiptasarkar011/sudiptasarkar011/.github/main.yml" alt="Snake animation" />
 
 ###
