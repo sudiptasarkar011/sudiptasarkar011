@@ -7,7 +7,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudiptasarkar011&theme=tokyonight&hide_border=true" alt="Sudipta's Streak" width="100%" style="margin-top: 10px;">
     </td>
     <td style="border: none; width: 50%;">
-      <img src="https://i.ibb.co/Qj9Xvvx/69684b62bc72d19642273491b51fcee0.jpg" height="400">
+      <img src="https://i.pinimg.com/736x/d9/b1/8a/d9b18ab85eec2b126ca64aa5501e349e.jpg" height="400">
     </td>
   </tr>
 </table>
